@@ -1,3 +1,5 @@
+![Imagen del repositorio](https://github.com/PublicStaticFun/django-auth/blob/main/Portada7.png?raw=true)
+
 # Auth en Django
 
 ## Objetivo
